@@ -1,0 +1,12 @@
+{
+    "name": "proyecto",
+    "version": "1.0.0",
+    "descripcion": "Mi primer proyecto de backend",
+    "scripts": {
+        "saludar": "echo hola",
+        "ejecutar":"node practica.js"
+    },
+    "dependencies": {
+        "is-odd": "^3.0.1"
+    }
+}
